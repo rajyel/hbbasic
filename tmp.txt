@@ -1,1 +1,1 @@
-test
+java -classpath c:\technical\db\mysql-connector.jar;.; MysqlCon

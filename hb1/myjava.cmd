@@ -1,0 +1,1 @@
+java -classpath ..\alljars\*;.; ManageEmployee
